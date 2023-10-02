@@ -17,7 +17,7 @@ function App() {
           isEnabled:true,
         },
         {
-          name:"5GB Storage",
+          name:"50GB Storage",
           isEnabled:true,
         },
         {
@@ -97,7 +97,7 @@ function App() {
           isEnabled:true,
         },
         {
-          name:"150GB Storage",
+          name:"50GB Storage",
           isEnabled:true,
         },
         {
